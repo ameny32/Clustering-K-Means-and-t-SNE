@@ -1,5 +1,7 @@
 Rutgers CS439 - Intro to Data Science
+
 Final Project - Clustering: K-Means & t-SNE
+
 Andrew Menyhert (amm926), Rida Mohammad (rm1724), Kaushik Murali (km1526)
 
 Python 3.11.9
