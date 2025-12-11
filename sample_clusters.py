@@ -1,6 +1,6 @@
 """
 Runs K-Means on all rows, then t-SNE on a sampled subset for visualization.
-Saves plot to sample_tsne_clusters.png and prints per-cluster means.
+Saves plot to sample_clusters.png and prints per-cluster means.
 """
 
 import argparse
